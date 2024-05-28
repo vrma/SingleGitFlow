@@ -19,8 +19,10 @@ public class App
         Integer b = 20;
         
         // Para almacenar un valor en un float, hay especificar un sufijo (f o F) porque de lo contrario
-        // consider el valor como un double, y un double no se puede almacenar en un float
-        float c = 2.3f;
+        // consider el valor como un double, y un double no se puede almacenar en un float.
+        // Pero tambien se puede hacer un type casting, para forzar a el valor a un tipo
+        // de datos concreto, un float en este caso
+        float c = (float) 2.3;
         
         
     }
