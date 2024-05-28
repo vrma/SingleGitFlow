@@ -20,6 +20,7 @@ public class App
         
         // Para almacenar un valor en un float, hay especificar un sufijo (f o F) porque de lo contrario
         // consider el valor como un double, y un double no se puede almacenar en un float
+        // Estoy modificando el commit
         float c = 2.3f;
         
         
