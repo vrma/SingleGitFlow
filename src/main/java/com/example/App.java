@@ -23,6 +23,7 @@ public class App
         // Pero tambien se puede hacer un type casting, para forzar a el valor a un tipo
         // de datos concreto, un float en este caso
         float c = (float) 2.3;
+
         
         
     }
